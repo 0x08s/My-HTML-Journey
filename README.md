@@ -156,12 +156,13 @@ You can put a list inside another list! This is great for creating multi-level m
     Use Lowercase: Keep all tags in lowercase (e.g., <body> not <BODY>). 🔡
 
     Alt Text: Never forget alt for your images! 🖼️
+    
 
     🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀MY FIRST SMALL AND AIMPLE PROJECT🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀🎀
 
     🎀🌸This link is here :
 
-    🌸🌸https://github.com/0x08s/My-HTML-Journey/blob/ef35d072f566412374599d2e4f1e682a107a5df0/Myproject.html 🌸🌸
+    🌸🌸 Myproject.html 🌸🌸
 
     
 🌟 CONCLUSION 🌟
